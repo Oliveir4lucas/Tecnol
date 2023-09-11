@@ -82,3 +82,88 @@
     </div>
     </body>
 </html>
+
+/////////
+
+
+body{
+    background-color: rgb(29, 29, 29)
+}
+.menu{
+    background-color: rgb(92, 92, 99);
+    padding-top: 10px;
+    padding-left: 10px;
+}
+h1{
+    color: white;
+}
+
+
+.tabela{
+    color: white;
+}
+
+.content{
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+    padding-bottom: 7%;
+    color: white;
+}
+
+h1, h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+  padding-left: 75%;
+  
+    right: 30px; 
+    bottom: 0px;
+}
+
+nav ul li{
+    float: top; 
+    color: rgb(45, 48, 78); 
+    width: auto; 
+    margin: 0.8em; 
+    font-size: 1.0em; life-style
+}
+
+nav ul li a{
+    text-decoration-line: none ;color:white
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 70%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+  }
+  
+  
+  th{
+    border: 1px solid rgb(235, 235, 235);
+    padding: 9px;
+    text-align: center;
+    color: #000000;
+  }
+  
+   td {
+    border: 1px solid rgb(235, 235, 235);
+    padding: 8px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  th {
+    background-color: rgb(255, 255, 255);
+  
+  }
+
+  
